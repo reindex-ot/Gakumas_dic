@@ -1,3 +1,4 @@
+![head](https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/head.png)
 # 学園アイドルマスターATOK辞書ファイル
 これは、[学園アイドルマスター](https://gakuen.idolmaster-official.jp/)のATOK辞書ファイルです。<br>
 アイドルマスターシリーズは多岐に渡りますが、色々とIMEの辞書がカオスになると思ったのでこちらは｢学マス限定｣にしています。
