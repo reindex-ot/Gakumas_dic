@@ -6,7 +6,7 @@ ATOKに`Gakumas_dic.txt`をインポートをするだけで学マスに関す�
 ATOK Syncを使用する事でデバイス間での同期も可能です。
 
 ## 使用方法
-ATOK、MS-IME、Google日本語入力でそれぞれに`Gakumas_dic.txt`をインポートするだけで使用可能になります。
+ATOK、MS-IME、Google日本語入力で`Gakumas_dic.txt`をインポートするだけで使用可能になります。
 
 ## ATOK辞書の編集について
 ATOKの辞書メンテナンス内でも編集できますが、他の方法でも編集が可能です。
