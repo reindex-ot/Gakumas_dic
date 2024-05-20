@@ -31,22 +31,3 @@ Issuesを立てて報告かPull request、[学園アイドルマスター公式D
 この辞書ファイルは｢バンダイナムコエンターテインメント｣、｢ASOBINOTES｣、｢QualiArts｣には一切関係はありません。
 
 完全非公式な物である事をご了承ください。また、この辞書を使って何らかの問題が起きたとしても一切の責任は負いかねます。
-
-## ライセンス
-- [WTFPL](http://www.wtfpl.net/)
-
-```
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
-
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
-```
