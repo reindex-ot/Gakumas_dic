@@ -1,6 +1,6 @@
 ![head](img/head.png)
-# 学園アイドルマスター辞書ファイル
-これは、[学園アイドルマスター](https://gakuen.idolmaster-official.jp/)の辞書ファイルです。<br>
+# 学園アイドルマスターIME辞書ファイル
+これは、[学園アイドルマスター](https://gakuen.idolmaster-official.jp/)のIME辞書ファイルです。<br>
 アイドルマスターシリーズは多岐に渡りますが、色々とIMEの辞書がカオスになると思ったのでこちらは **｢学園アイドルマスター限定｣** にしています。
 
 各種IMEに`Gakumas_dic.txt`をインポートをするだけで学マスに関する用語が登録されます。<br>
