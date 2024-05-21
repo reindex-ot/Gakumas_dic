@@ -1,4 +1,4 @@
-![head](https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/head.png)
+![head](img/head.png)
 # 学園アイドルマスターATOK辞書ファイル
 これは、[学園アイドルマスター](https://gakuen.idolmaster-official.jp/)のATOK辞書ファイルです。<br>
 アイドルマスターシリーズは多岐に渡りますが、色々とIMEの辞書がカオスになると思ったのでこちらは **｢学園アイドルマスター限定｣** にしています。
@@ -16,10 +16,10 @@ ATOK、MS-IME、Google日本語入力で`Gakumas_dic.txt`をインポートす�
 [「ATOK」から「ことえり」への辞書コンバート](http://donboolacoo.blog92.fc2.com/blog-entry-1502.html)
 
 ## サンプル
-<img src="https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/sample1.png">    <img src="https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/sample2.png">
+<img src="img/sample1.png" width="25%"> <img src="img/sample2.png" width="25%">
 
 ## 簡易ショートカット機能
-<img src="https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/sample3.png">
+<img src="img/sample3.png" width="25%">
 
 `ドリンク`と入力でPドリンク名を予測変換で表示できるようにしています。<br>
 要望があればショートカット化は追加するのでIssueで報告または、[学園アイドルマスター公式Discord](https://discord.gg/sgSdejpp3Z)内でご連絡ください。
