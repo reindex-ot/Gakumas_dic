@@ -16,7 +16,7 @@ ATOK、MS-IME、Google日本語入力で`Gakumas_dic.txt`をインポートす�
 [「ATOK」から「ことえり」への辞書コンバート](http://donboolacoo.blog92.fc2.com/blog-entry-1502.html)
 
 ## サンプル
-<img src="https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/sample1.png">  <img src="https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/sample2.png">
+<img src="https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/sample1.png">    <img src="https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/sample2.png">
 
 ## 簡易ショートカット機能
 <img src="https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/sample3.png">
