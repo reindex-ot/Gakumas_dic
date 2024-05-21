@@ -1,4 +1,4 @@
-![head](https://raw.githubusercontent.com/reindex-ot/Gakumas_dic/main/img/head.png)
+![head](img/head.png)
 # 学園アイドルマスターATOK辞書ファイル
 これは、[学園アイドルマスター](https://gakuen.idolmaster-official.jp/)のATOK辞書ファイルです。<br>
 アイドルマスターシリーズは多岐に渡りますが、色々とIMEの辞書がカオスになると思ったのでこちらは **｢学園アイドルマスター限定｣** にしています。
@@ -6,7 +6,7 @@
 ATOKに`Gakumas_dic.txt`をインポートをするだけで学マスに関する用語が登録されます。<br>
 ATOK Syncを使用する事でデバイス間での同期も可能です。
 
-** 注意: ** Shift-JIS版(`Gakumas_dic_SJIS.txt`)はUnicodeな文字を省略しています。完全にインポートをしたい場合は通常版を使ってください。
+**注意:** Shift-JIS版(`Gakumas_dic_SJIS.txt`)はUnicodeな文字を省略しています。完全にインポートをしたい場合は通常版を使ってください。
 
 ## 使用方法
 ATOK、MS-IME、Google日本語入力で`Gakumas_dic.txt`をインポートするだけで使用可能になります。<br>
@@ -15,14 +15,19 @@ ATOK、MS-IME、Google日本語入力で`Gakumas_dic.txt`をインポートす�
 #### 参考リンク
 [「ATOK」から「ことえり」への辞書コンバート](http://donboolacoo.blog92.fc2.com/blog-entry-1502.html)
 
+## サンプル
+<img src="img/sample1.png" width="25%"> <img src="img/sample2.png" width="25%">
+
 ## 簡易ショートカット機能
+<img src="img/sample3.png" width="25%">
+
 `ドリンク`と入力でPドリンク名を予測変換で表示できるようにしています。<br>
 要望があればショートカット化は追加するのでIssueで報告または、[学園アイドルマスター公式Discord](https://discord.gg/sgSdejpp3Z)内でご連絡ください。
 
 ## ATOK辞書の編集について
 ATOKの辞書メンテナンス内でも編集できますが、他の方法でも編集が可能です。
 
-** 注意: ** 各種IMEで出力されるテキストの形式が異なります、この場合は「各種ユーザー辞書の変換フォーム」を使って編集と出力を行うようにしてください。
+**注意:** 各種IMEで出力されるテキストの形式が異なります、この場合は「各種ユーザー辞書の変換フォーム」を使って編集と出力を行うようにしてください。
 
 #### 参考リンク
 [ATOKの辞書を作る](http://hokoxjouhou.blog105.fc2.com/blog-entry-28.html)
