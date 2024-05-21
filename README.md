@@ -49,5 +49,12 @@ Issuesを立てて報告かPull request、[学園アイドルマスター公式D
 
 完全非公式な物である事をご了承ください。また、この辞書を使って何らかの問題が起きたとしても一切の責任は負いかねます。
 
+## その他の辞書ファイル
+こちらの辞書はアイマスシリーズを完全に収録した辞書ファイルになります。
+
+[THE IDOLM@STER IMEユーザー辞書登録用テキスト](https://ime.imas-db.jp/)
+
+[THE IDOLM@STER IMEユーザー辞書登録用テキストのGitHubリポジトリ](https://github.com/maruamyu/imas-ime-dic)
+
 ## ライセンス
 [NYSL - 煮るなり焼くなり好きにしろライセンス](https://www.kmonos.net/nysl/)
