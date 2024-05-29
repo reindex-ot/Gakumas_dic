@@ -58,5 +58,7 @@ Issuesを立てて報告かPull request、[学園アイドルマスター公式D
 
 [THE IDOLM@STER IMEユーザー辞書登録用テキストのGitHubリポジトリ](https://github.com/maruamyu/imas-ime-dic)
 
+SKKを使用している方は[こちら](https://github.com/project-brightblue/skk-dict-imas)のリポジトリをご参照ください。
+
 ## ライセンス
 [NYSL - 煮るなり焼くなり好きにしろライセンス](https://www.kmonos.net/nysl/)
