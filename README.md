@@ -12,6 +12,10 @@ ATOKユーザーの方は、ATOK Syncを使用する事でデバイス間での�
 ATOK、MS-IME、Google日本語入力で`Gakumas_dic.txt`をインポートするだけで使用可能になります。Gboardを使用している方は`Gakumas_dic_Gboard`をインポートで登録がされます。<br>
 ことえりの場合は辞書のテキストを置換する事でインポートが可能になるかもしれません。
 
+## インポート用テキストファイルの文字コードについて
+通常版は`UTF-16`、Gboard版は`UTF-8`、SJIS版は`Shift-JIS`になっています。<br>
+Shift-JIS版は`♥`などの記号に対応していないので省略しています。
+
 #### 参考リンク
 [「ATOK」から「ことえり」への辞書コンバート](http://donboolacoo.blog92.fc2.com/blog-entry-1502.html)
 
