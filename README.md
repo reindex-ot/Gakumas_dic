@@ -15,6 +15,10 @@ ATOK、MS-IME、Google日本語入力で`Gakumas_dic.txt`をインポートす�
 #### 参考リンク
 [「ATOK」から「ことえり」への辞書コンバート](http://donboolacoo.blog92.fc2.com/blog-entry-1502.html)
 
+## インポート用テキストファイルの文字コードについて
+通常版は`UTF-16`、Gboard版は`UTF-8`、SJIS版は`Shift-JIS`になっています。<br>
+Shift-JIS版は`♥`などの記号に対応していないので省略しています。
+
 ## サンプル
 <img src="img/sample1.png" width="25%"> <img src="img/sample2.png" width="25%">
 
@@ -40,9 +44,7 @@ ATOKの辞書メンテナンス内でも編集できますが、他の方法で�
 Issuesを立てて報告かPull request、[学園アイドルマスター公式Discord](https://discord.gg/sgSdejpp3Z)内でご連絡ください。
 
 ## 更新履歴
-- 読みの文字数が多すぎた箇所を修正 (Android版ATOKのインポートに失敗するため)
-- ATOK以外にも使えるのでATOK専用っぽいような綴りをやめた
-- Gboardでのインポート用テキストファイルを公開
+- 100プロ(十王プロ)などの用語を追加
 
 ## 注意事項
 この辞書ファイルは｢バンダイナムコエンターテインメント｣、｢ASOBINOTES｣、｢QualiArts｣には一切関係はありません。
@@ -55,6 +57,8 @@ Issuesを立てて報告かPull request、[学園アイドルマスター公式D
 [THE IDOLM@STER IMEユーザー辞書登録用テキスト](https://ime.imas-db.jp/)
 
 [THE IDOLM@STER IMEユーザー辞書登録用テキストのGitHubリポジトリ](https://github.com/maruamyu/imas-ime-dic)
+
+SKKを使用している方は[こちら](https://github.com/project-brightblue/skk-dict-imas)のリポジトリをご参照ください。
 
 ## ライセンス
 [NYSL - 煮るなり焼くなり好きにしろライセンス](https://www.kmonos.net/nysl/)
