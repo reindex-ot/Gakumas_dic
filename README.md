@@ -44,7 +44,7 @@ ATOKの辞書メンテナンス内でも編集できますが、他の方法で�
 Issuesを立てて報告かPull request、[学園アイドルマスター公式Discord](https://discord.gg/sgSdejpp3Z)内でご連絡ください。
 
 ## 更新履歴
-- 100プロ(十王プロ)などの用語を追加
+- Yellow Big Bang!などのキーワードを追加
 
 ## 注意事項
 この辞書ファイルは｢バンダイナムコエンターテインメント｣、｢ASOBINOTES｣、｢QualiArts｣には一切関係はありません。
