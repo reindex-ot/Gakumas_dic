@@ -44,7 +44,8 @@ ATOKの辞書メンテナンス内でも編集できますが、他の方法で�
 Issuesを立てて報告かPull request、[学園アイドルマスター公式Discord](https://discord.gg/sgSdejpp3Z)内でご連絡ください。
 
 ## 更新履歴
-- Yellow Big Bang!などのキーワードを追加
+- Boom Boom Powなどのキーワードを追加
+- 簡易ショートカットに｢ハッシュタグ｣を追加 (**はっしゅ** と入力で表示されます)
 
 ## 注意事項
 この辞書ファイルは｢バンダイナムコエンターテインメント｣、｢ASOBINOTES｣、｢QualiArts｣には一切関係はありません。
